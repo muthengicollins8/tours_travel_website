@@ -127,74 +127,93 @@
     include("shared/navbar.php");
    ?>
 
-    <div class="jumbotron">
-      <h1 class="display-4 text-center" style="padding-top: 50px;">Our Gallery</h1>
+
+<div class="jumbotron">
+      <h1 class="display-4 text-center" style="padding-top: 50px;">Contacts</h1>
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb justify-content-center" style="padding-bottom: 20px;">
           <li class="breadcrumb-item"><a href="/Tourism/index.php">Home</a></li>
-          <li class="breadcrumb-item active" aria-current="page">Gallery</li>
+          <li class="breadcrumb-item active" aria-current="page">Contacts</li>
         </ol>
       </nav> 
       <hr class="my-4">
       
     </div>
 
-    <div class="container gallery px-md-3 px-0" style="padding-top: 50px;">
+
+    <div class="container">
       <div class="row">
-        <div class="col-sm-3">
-            <img src="images/gall20.jpg"class="card-img-top" alt="tours">
-         
+
+      <div class="col">
+
+        <h2 style="color:; padding-bottom:20px; text-align:; font-size:25px; line-height:25px; letter-spacing: 0px; font-weight:bold;" class="   nd_options_first_font ">Drop us a line</h2>
+        <p>Get in touch with us by sending us an email, give us a call on the provided contacts. Dont forget to like share and subscribe to our official social accounts.</p>
+        <p style="padding-top:10px;">Name :</p>
+        <input class="form-control form-control-sm" style="border-radius:20px; width: 400px; background-color:#f9f9f9" type="text" placeholder="Your Name" aria-label=".form-control-sm example">
+        <p style="padding-top:10px;">Email :</p>
+        <input class="form-control form-control-sm" style="border-radius:20px; width: 400px; background-color:#f9f9f9" type="text" placeholder="Enter email" aria-label=".form-control-sm example">
+        <p style="padding-top:10px;">Message :</p>
+        <input class="form-control form-control-lg" style="height:90px; width: 400px; background-color:#f9f9f9; padding-bottom:50px;" type="text" placeholder="Text Message" aria-label=".form-control-lg example">
+        <div class="d-flex justify-content-start" style="padding-top:20px;">
+        <button style="border-radius:20px; background-color: green; color: white;" type="button"class="btn btn-outline-secondary">Send Now</button>       
+       </div>
+        
+      </div>
+
+        <div class="col">
+          <img src="images/gall9.jpg"class="card-img-top" style="height:350px;"  alt="tours">
+
+          <div class="row" style="margin-top: 20px;">
+          <div class="col" style="margin-right: 50px;">
+          <div class="d-flex">        
+              <p style="color:#555555; font-weight:bold;">Address :</p> 
+              <div style="flex:1; margin-left:2px;"></div>                    
+              <p class="text-right" style="color:;">Avenue 234</p>            
+          </div>
+          <div style="background-color:#f1f1f1; height: 1px;" class="nicdark_section  "></div>
+          </div>
+          <div class="col">
+          <div class="d-flex">        
+              <p style="color:#555555; font-weight:bold;">City :</p> 
+              <div style="flex:1; margin-left:2px;"></div>                    
+              <p class="text-right" style="color:;">Nairobi</p>            
+          </div>
+          <div style="background-color:#f1f1f1; height: 1px;" class="nicdark_section  "></div>
+          </div>
+          </div>
+
+          <div class="row" style="margin-top: 20px;">
+          <div class="col"  style="margin-right: 50px;">
+          <div class="d-flex">        
+              <p style="color:#555555; font-weight:bold;">Phone :</p> 
+              <div style="flex:1; margin-left:2px;"></div>                    
+              <p class="text-right" style="color:;">012345678</p>            
+          </div>
+          <div style="background-color:#f1f1f1; height: 1px;" class="nicdark_section  "></div>
+          </div>
+          <div class="col">
+          <div class="d-flex">        
+              <p style="color:#555555; font-weight:bold;">Email :</p> 
+              <div style="flex:1; margin-left:2px;"></div>                    
+              <p class="text-right" style="color:;">info@travel.com</p>            
+          </div>
+          <div style="background-color:#f1f1f1; height: 1px;" class="nicdark_section  "></div>
+          </div>
+          </div>
+
+          <p style="color:; padding-top:20px; text-align:; font-size:14px; line-height:14px; letter-spacing: 2px; font-weight:normal;" class="   nd_options_second_font ">AVAILABLE AT 8AM – 5PM</p>
+          <h3 style="color:; padding:px; text-align:; font-size:60px; line-height:60px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">+ 012345678</h3>
+          
+
+          
+        
+        
         </div>
-        <div class="col-sm-3">
-          <img src="images/gall2.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall3.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall4.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall5.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall6.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall7.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall8.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-            <img src="images/gall9.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall10.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall11.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall12.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall13.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall14.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall15.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall16.jpg"class="card-img-top" alt="tours">
-        </div>
+        
+  
       </div>
     </div>
-
-
-
+    
    
     
     

@@ -127,75 +127,72 @@
     include("shared/navbar.php");
    ?>
 
-    <div class="jumbotron">
-      <h1 class="display-4 text-center" style="padding-top: 50px;">Our Gallery</h1>
+
+<div class="jumbotron">
+      <h1 class="display-4 text-center" style="padding-top: 50px;">About Us</h1>
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb justify-content-center" style="padding-bottom: 20px;">
           <li class="breadcrumb-item"><a href="/Tourism/index.php">Home</a></li>
-          <li class="breadcrumb-item active" aria-current="page">Gallery</li>
+          <li class="breadcrumb-item active" aria-current="page">About Us</li>
         </ol>
       </nav> 
-      <hr class="my-4">
-      
-    </div>
-
-    <div class="container gallery px-md-3 px-0" style="padding-top: 50px;">
-      <div class="row">
-        <div class="col-sm-3">
-            <img src="images/gall20.jpg"class="card-img-top" alt="tours">
-         
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall2.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall3.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall4.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall5.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall6.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall7.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall8.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-            <img src="images/gall9.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall10.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall11.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall12.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall13.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall14.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall15.jpg"class="card-img-top" alt="tours">
-        </div>
-        <div class="col-sm-3">
-          <img src="images/gall16.jpg"class="card-img-top" alt="tours">
-        </div>
-      </div>
+      <hr class="my-4">      
     </div>
 
 
+    <div class="container" >
+        <div class="row" style="margin-top:50px;">
 
-   
+          <div class="col">
+          <h2 style="color:; padding-right:20px; text-align:right; font-size:40px; line-height:50px; letter-spacing: px; font-weight:400px; font-family: Centaur;" class="  nd_options_text_align_center_responsive_important nd_options_first_font ">Hello. Our agency has been present for over 10 years in the market. We make the most of all our customers.</h2>
+
+          </div>
+
+          <div class="col" style="margin-top:20px;">
+              <p style="font-family:Centaur; font-size:20px;">Our honor-winning organization reliably positions as a standout amongst other offices in the nation (Travel Weekly, Business Travel Weekly), and is the best individual from the renowned Signature Travel Network, an overall association enabling us to give our clients unmatched advantages.</p>
+              <p style="font-family:Centaur; font-size:20px;">We’re a worker-claimed travel organization secured by our qualities, trustworthiness, and commitment to client benefit.</p>
+          </div>
+         </div>
+
+          <div class="row">
+          <div class="col">
+          <img src="images/gall7.jpg"class="card-img-top" style="height:450px; margin-top:40px;"  alt="tours">
+          </div>
+    
+        </div>
+    </div>
+
+    <div class="row" style="margin-top:70px;margin-left:120px;">
+        <div class="col">
+          <div style="border-radius: 50%; background-color: #ff9999; height:80px; width:80px;">
+          <h1 style="padding-left:30px; padding-top:12px;">8</h1>
+          </div>
+          <p>Destinations</p>
+        </div>
+
+        <div class="col">
+        <div style="border-radius: 50%; background-color:#ffeb99; height:80px; width:80px;">
+          <h1 style="padding-left:20px; padding-top:12px;">12</h1>
+        </div>
+          <p>Packages</p>
+        </div>
+
+        <div class="col">
+        <div style="border-radius: 50%; background-color:#9999ff; height:80px; width:80px;">
+          <h1 style="padding-left:20px; padding-top:12px;">10</h1>
+          </div>
+          <p>Staff Members</p>
+        </div>
+
+        <div class="col">
+        <div style="border-radius: 50%; background-color: #99ff99; height:80px; width:80px;">
+          <h1 style="padding-left:20px; padding-top:12px;">15</h1>
+          </div>
+          <p>Years Of Experience</p>
+        </div>
+
+    </div>
+
     
     
 

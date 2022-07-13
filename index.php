@@ -67,13 +67,14 @@
       .menu-items{
         font-family: 'Times New Roman', Times, serif;
         font-size: 18px;
-       padding-left: 100px;
+       padding-left: 150px;
        font-weight: 500;
       }
 
       .card-text{
         padding-top: 100px;
       }
+
       .overlay{
         position: absolute;
         top:0;
@@ -98,8 +99,6 @@
         transform: scale(1.02);
       }
        
-       
-
       .social-handles .btn{
         width: 25px;
         height: 25px;
@@ -112,55 +111,9 @@
   </head>
   <body class="body">
     
-    <nav class="navbar navbar-expand-lg" style="background-color: white;">
-      <div class="container-fluid">
-        <a class="navbar-brand" style="color:black;margin-left: 10px; padding-right: 18px;  "href="index.html">
-        <img src="images/The logo.jpg" alt="tours" style="height:70px; width:70px;"/>
-        </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse " id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto d-flex">
-
-            <div class="d-flex menu-items" style="margin-left: px;">
-              <li class="nav-item">
-                <a class="nav-link " aria-current="page"href="/index.html">Home</a>
-              </li>
-              
-              <li class="nav-item">
-                <a class="nav-link" href="destinations.html">Our Destinations</a>
-              </li>
-  
-              <li class="nav-item">
-                <a class="nav-link" href="/gallery.html">Gallery</a>
-              </li>
-  
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                 Pages
-                </a>
-                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="#">Contacts</a></li>
-                  <li><a class="dropdown-item" href="#">About Us</a></li>
-                </ul>
-              </li>        
-    
-            </div>
-
-                <div style="flex:1;">
-                  
-                </div>
-                <li class="nav-item button">
-                  <button style="background-color: green; color: white;" type="button" 
-                  class="btn btn-outline-secondary">BOOK A TRIP</button>
-                </li>
-               
-            
-          </ul>
-        </div>
-      </div>
-    </nav>
+   <?php
+    include("shared/navbar.php");
+   ?>
 
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
       <div class="carousel-indicators">
@@ -255,7 +208,7 @@
               </svg>
             </div>
            <div class="card-body">            
-              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ac porttitor felis. Ut volutpat, augue at commodo volutpat, felis enim tincidunt leo, non ultricies ex quam placerat velit. 
+              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">We have the best staff members in the industries. They are able to offer quality services of your desire. Our staff are experienced in offering the best services
               </p>
             </div>
           </div>
@@ -269,7 +222,7 @@
               </svg>
             </div>
            <div class="card-body">            
-              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ac porttitor felis. Ut volutpat, augue at commodo volutpat, felis enim tincidunt leo, non ultricies ex quam placerat velit. 
+              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">Our company possesses the best tour vehicles in the tourism industry. Get to experience your vacations in different location courtesy of our wel maintained vehicles.
               </p>
             </div>
           </div>
@@ -283,7 +236,7 @@
               </svg>
             </div>
            <div class="card-body">            
-              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ac porttitor felis. Ut volutpat, augue at commodo volutpat, felis enim tincidunt leo, non ultricies ex quam placerat velit. 
+              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">Our services are pocket friendly. We offer different packages suitable to your budget. Get to choose the best packages for you and your loved ones.
               </p>
             </div>
           </div>
@@ -297,7 +250,7 @@
               </svg>
             </div>
            <div class="card-body">            
-              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ac porttitor felis. Ut volutpat, augue at commodo volutpat, felis enim tincidunt leo, non ultricies ex quam placerat velit. 
+              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">Wild Adventure Destinations offers its services in a very timely manner. You get to experience no delays with our company. Timely and quality services is our priority. 
               </p>
             </div>
           </div>
@@ -335,7 +288,7 @@
           <div style="padding-left:0px;" class="text-center nd_options_section nd_options_box_sizing_border_box">
             
             <h3 class="nd_options_first_font  " style="margin:10px; color:; font-size:24px;line-height:24px;">World Tour</h3> 
-            <p class="nd_options_first_font 14 " style="margin-top:20px 0px; color:none; font-size:14px;line-height:24px;">Lorem ipsum dolor sit amet conse ctetur adip iscing elit Proin rhonc us urna dictum.</p> 
+            <p class="nd_options_first_font 14 " style="margin-top:20px 0px; color:none; font-size:14px;line-height:24px;">Giving a series of related performances, appearances, competitions, etc., at different places over a period of time</p> 
             <button type="button" class="btn btn-warning btn-sm rounded-pill text-light" >Details</Details></button>
 
 
@@ -351,7 +304,7 @@
             <div style="padding-left:0px;" class="text-center nd_options_section nd_options_box_sizing_border_box">
                 
                 <h3 class="nd_options_first_font  " style="margin:10px; color:; font-size:24px;line-height:24px;">Cruises</h3> 
-                <p class="nd_options_first_font 14 " style="margin-top:20px 0px; color:; font-size:14px;line-height:24px;">Lorem ipsum dolor sit amet conse ctetur adip iscing elit Proin rhonc us urna dictum.</p> 
+                <p class="nd_options_first_font 14 " style="margin-top:20px 0px; color:; font-size:14px;line-height:24px;">a vacation spent on a ship that sails the ocean, periodically stopping in ports for sightseeing and experience.</p> 
                 <button type="button" class="btn btn-danger btn-sm rounded-pill">Details</button>
     
             </div>
@@ -368,7 +321,7 @@
             <div style="padding-left:0px;" class="text-center nd_options_section nd_options_box_sizing_border_box">
                 
                 <h3 class="nd_options_first_font  " style="margin:10px; color:; font-size:24px;line-height:24px;">Best Tours</h3> 
-                <p class="nd_options_first_font 14 " style="margin-top:20px 0px; color:; font-size:14px;line-height:24px;">Lorem ipsum dolor sit amet conse ctetur adip iscing elit Proin rhonc us urna dictum.</p> 
+                <p class="nd_options_first_font 14 " style="margin-top:20px 0px; color:; font-size:14px;line-height:24px;">a journey for business, pleasure, or education often involving a series of stops and ending at the starting point.</p> 
                 <button type="button" class="btn btn-success btn-sm rounded-pill" >Details</button>
     
             </div>
@@ -385,11 +338,11 @@
       <div class="row">
         <div class="col-sm">
           <h2 style="font-family: Lucida Calligraphy; padding-bottom: 20px;"><u>The best Beaches</u></h2>
-          <p style="text-align: left; height: 30px; font-family: 'Times New Roman', Times, serif;">Lorem ipsum dolor sit amet, consectetur adip iscing elit. Proin rhoncus urna dictum neque molestie ultricies mauris ac.Lorem ipsum dolor sit amet, consectetur adip iscing elit. Proin rhoncus urna dictum neque molestie ultricies mauris ac.</p>
+          <p style="text-align: left; height: 10px; font-family: 'Times New Roman', Times, serif;">It’s not often that you come across a sunrise-gold beach. That is our privilege as we gazed out at the slothful sea. Ebbing ever so gently, it looks at peace in its Neptune-blue gown. The beach is so soft, it feels like we were walking on a blanket of candy floss. The shimmering sand sweeps around in a scythe of beach, hemmes in by towering cliffs. Far out to sea, streams of pulsing light saturated the surface with a golden haze. It is confessional-quiet and this Babylon of beaches felt like paradise. The horizon seems to be stitched with a line of silver.</p>
           <div class="wpb_text_column wpb_content_element ">
             <div style="background-color:; height: 60px;" class="nicdark_section  "></div>
             <div class="wpb_wrapper">
-              <p style="text-align: left; font-family: 'Times New Roman', Times, serif;">Lorem ipsum dolor sit amet, consectetur adip iscing elit. Proin rhoncus urna dictum neque molestie ultricies mauris ac.Lorem ipsum dolor sit amet, consectetur adip iscing elit. Proin rhoncus urna dictum neque molestie ultricies mauris ac.</p>        
+              <p style="text-align: left; font-family: 'Times New Roman', Times, serif;"></p>        
             </div>
             <div style="background-color:; height: 60px;" class="nicdark_section  "></div>
             
