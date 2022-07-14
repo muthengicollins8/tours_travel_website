@@ -161,7 +161,7 @@
       <h1 class="display-4 text-center" style="padding-top: 50px;">Our Destinations</h1>
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb justify-content-center" style="padding-bottom: 20px;">
-          <li class="breadcrumb-item"><a href="/Tourism/index.php">Home</a></li>
+          <li class="breadcrumb-item"><a href="/index.php">Home</a></li>
           <li class="breadcrumb-item active" aria-current="page">Destinations</li>
         </ol>
       </nav> 

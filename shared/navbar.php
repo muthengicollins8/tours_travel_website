@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg" style="background-color: #f9f9f9;">
       <div class="container-fluid">
-        <a class="navbar-brand" style="color:black;margin-left: 10px; padding-right: 80px;  "href="/Tourism/index.php">
+        <a class="navbar-brand" style="color:black;margin-left: 10px; padding-right: 80px;  "href="/index.php">
         <img src="images/The logo.jpg" alt="tours" style="height:50px; width:70px;"/>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -11,15 +11,15 @@
 
             <div class="d-flex menu-items" style="margin-left: px;">
               <li class="nav-item">
-                <a class="nav-link" style="padding-right: 40px; padding-left: 20px;" aria-current="page"href="/Tourism/index.php">Home</a>
+                <a class="nav-link" style="padding-right: 40px; padding-left: 20px;" aria-current="page"href="/index.php">Home</a>
               </li>
               
               <li class="nav-item">
-                <a class="nav-link"  style="padding-right: 40px; padding-left: 20px;" href="/Tourism/destinations.php">Our Destinations</a>
+                <a class="nav-link"  style="padding-right: 40px; padding-left: 20px;" href="/destinations.php">Our Destinations</a>
               </li>
   
               <li class="nav-item">
-                <a class="nav-link" style="padding-right: 40px; padding-left: 20px;" href="/Tourism/gallery.php">Gallery</a>
+                <a class="nav-link" style="padding-right: 40px; padding-left: 20px;" href="/gallery.php">Gallery</a>
               </li>
   
               <li class="nav-item dropdown">
@@ -27,8 +27,8 @@
                  Pages
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="/Tourism/Contacts.php">Contacts</a></li>
-                  <li><a class="dropdown-item" href="/Tourism/AboutUs.php">About Us</a></li>
+                  <li><a class="dropdown-item" href="/Contacts.php">Contacts</a></li>
+                  <li><a class="dropdown-item" href="/AboutUs.php">About Us</a></li>
                 </ul>
               </li>        
     
