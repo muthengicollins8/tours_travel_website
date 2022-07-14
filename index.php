@@ -177,7 +177,7 @@
         </div>
         <div class="col-md-4">
           <div class="card" >
-            <img src="images/tour7.jpg" class="card-img-top" alt="tours">
+            <img src="images/gall37.jpg" class="card-img-top" alt="tours">
           </div>
         </div>
         <div class="col-md-4">
