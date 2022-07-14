@@ -164,45 +164,44 @@
           <img src="images/gall9.jpg"class="card-img-top" style="height:350px;"  alt="tours">
 
           <div class="row" style="margin-top: 20px;">
-          <div class="col" style="margin-right: 50px;">
+          <div class="col" style="margin-right: 20px;">
           <div class="d-flex">        
               <p style="color:#555555; font-weight:bold;">Address :</p> 
               <div style="flex:1; margin-left:2px;"></div>                    
-              <p class="text-right" style="color:;">Avenue 234</p>            
+              <p class="text-right" style="color:;">10574-00100  Nairobi</p>            
           </div>
           <div style="background-color:#f1f1f1; height: 1px;" class="nicdark_section  "></div>
           </div>
-          <div class="col">
+          
+          <div class="row" style="margin-top: 20px;">
           <div class="d-flex">        
-              <p style="color:#555555; font-weight:bold;">City :</p> 
+              <p style="color:#555555; font-weight:bold;">Physical address :</p> 
               <div style="flex:1; margin-left:2px;"></div>                    
-              <p class="text-right" style="color:;">Nairobi</p>            
+              <p class="text-right" style="color:;">Revlon Plaza Fourth floor suite 24 along Kimathi Street</p>            
           </div>
           <div style="background-color:#f1f1f1; height: 1px;" class="nicdark_section  "></div>
-          </div>
           </div>
 
           <div class="row" style="margin-top: 20px;">
-          <div class="col"  style="margin-right: 50px;">
           <div class="d-flex">        
               <p style="color:#555555; font-weight:bold;">Phone :</p> 
               <div style="flex:1; margin-left:2px;"></div>                    
-              <p class="text-right" style="color:;">012345678</p>            
+              <p class="text-right" style="color:;">0722918690/0726079279</p>            
           </div>
           <div style="background-color:#f1f1f1; height: 1px;" class="nicdark_section  "></div>
           </div>
-          <div class="col">
+          <div class="row" style="margin-top: 20px;">
           <div class="d-flex">        
               <p style="color:#555555; font-weight:bold;">Email :</p> 
               <div style="flex:1; margin-left:2px;"></div>                    
-              <p class="text-right" style="color:;">info@travel.com</p>            
+              <p class="text-right" style="color:;">acrossplanetenterprises@gmail.com</p>            
           </div>
           <div style="background-color:#f1f1f1; height: 1px;" class="nicdark_section  "></div>
           </div>
           </div>
 
           <p style="color:; padding-top:20px; text-align:; font-size:14px; line-height:14px; letter-spacing: 2px; font-weight:normal;" class="   nd_options_second_font ">AVAILABLE AT 8AM – 5PM</p>
-          <h3 style="color:; padding:px; text-align:; font-size:60px; line-height:60px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">+ 254722918690</h3>
+          <h3 style="color:; padding:px; text-align:; font-size:30px; line-height:60px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">+(254) 722918690 / 726079279</h3>
           
 
           

@@ -190,6 +190,16 @@
         <div class="col-sm-3">
           <img src="images/gall16.jpg"class="card-img-top" alt="tours">
         </div>
+        <?php
+          for ($i=28; $i < 48; $i++) { 
+            ?>
+            <div class="col-sm-3">
+              <img src="<?php echo('images/gall'.$i.'.jpg');?>" class="card-img-top" alt="tours">
+            </div>
+          <?php
+            }
+
+        ?>
       </div>
     </div>
 
