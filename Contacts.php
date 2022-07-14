@@ -59,7 +59,7 @@
         height: 40px;
       }
 
-      .nav-item button{
+      .nav-item .button{
         border-radius: 20px;
         margin-left: 300px;
       }
@@ -202,7 +202,7 @@
           </div>
 
           <p style="color:; padding-top:20px; text-align:; font-size:14px; line-height:14px; letter-spacing: 2px; font-weight:normal;" class="   nd_options_second_font ">AVAILABLE AT 8AM – 5PM</p>
-          <h3 style="color:; padding:px; text-align:; font-size:60px; line-height:60px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">+ 012345678</h3>
+          <h3 style="color:; padding:px; text-align:; font-size:60px; line-height:60px; letter-spacing: px; font-weight:normal;" class="   nd_options_first_font ">+ 254722918690</h3>
           
 
           

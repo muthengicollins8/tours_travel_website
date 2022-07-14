@@ -195,7 +195,7 @@
                 </div>
                   <div style="flex:1"></div>
                  <div style="float: right; padding-right: 10px; margin-top: 3%;">
-                  <button type="button" class="btn btn-success btn-md rounded-pill" >Book</button>
+                  <a href="https://api.whatsapp.com/send?phone=254722918690"  type="button" class="btn btn-success btn-md rounded-pill" >Book</a>
                  </div>
                 </div>               
               </div>   
@@ -226,7 +226,7 @@
                 </div>
                   <div style="flex:1"></div>
                  <div style="float: right; padding-right: 10px; margin-top: 3%;">
-                  <button type="button" class="btn btn-success btn-md rounded-pill" >Book</button>
+                  <a href="https://api.whatsapp.com/send?phone=254722918690" type="button" class="btn btn-success btn-md rounded-pill" >Book</a>
                  </div>
                 </div>               
               </div>   
@@ -257,7 +257,7 @@
                 </div>
                   <div style="flex:1"></div>
                  <div style="float: right; padding-right: 10px; margin-top: 3%;">
-                  <button type="button" class="btn btn-success btn-md rounded-pill" >Book</button>
+                  <a href="https://api.whatsapp.com/send?phone=254722918690"  type="button" class="btn btn-success btn-md rounded-pill" >Book</a>
                  </div>
                 </div>               
               </div>   
@@ -288,7 +288,7 @@
                 </div>
                   <div style="flex:1"></div>
                  <div style="float: right; padding-right: 10px; margin-top: 3%;">
-                  <button type="button" class="btn btn-success btn-md rounded-pill" >Book</button>
+                  <a href="https://api.whatsapp.com/send?phone=254722918690"  type="button" class="btn btn-success btn-md rounded-pill" >Book</a>
                  </div>
                 </div>               
               </div>   
@@ -319,7 +319,7 @@
                 </div>
                   <div style="flex:1"></div>
                  <div style="float: right; padding-right: 10px; margin-top: 3%;">
-                  <button type="button" class="btn btn-success btn-md rounded-pill" >Book</button>
+                  <a href="https://api.whatsapp.com/send?phone=254722918690"  type="button" class="btn btn-success btn-md rounded-pill" >Book</a>
                  </div>
                 </div>               
               </div>   
@@ -350,7 +350,7 @@
                 </div>
                   <div style="flex:1"></div>
                  <div style="float: right; padding-right: 10px; margin-top: 3%;">
-                  <button type="button" class="btn btn-success btn-md rounded-pill" >Book</button>
+                  <a href="https://api.whatsapp.com/send?phone=254722918690"  type="button" class="btn btn-success btn-md rounded-pill" >Book</a>
                  </div>
                 </div>               
               </div>   

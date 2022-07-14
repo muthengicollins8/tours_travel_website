@@ -271,7 +271,7 @@
       <div class="card-body">
         <p class="card-text text-light text-uppercase" style="font-family: Lucida Calligraphy;">Your next holiday</p>
         <div class="d-flex justify-content-center">
-          <button class="btn btn-success subscribe-button" type="submit">BOOK NOW</button>
+          <a href="https://api.whatsapp.com/send?phone=+254722918690" class="btn btn-success subscribe-button" type="submit">BOOK NOW</a>
         </div>
       </div>
       <!-- //<img src="images/pic2.webp" class="card-img-top" alt="tours"> -->

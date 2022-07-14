@@ -37,10 +37,14 @@
                 <div style="flex:1;">
                   
                 </div>
-                <li class="nav-item button">
-                  <button style="background-color: green; color: white;" type="button" 
-                  class="btn btn-outline-secondary">BOOK A TRIP</button>
+                
+                <div>
+                <li class="nav-item ">
+                  <a  href="https://api.whatsapp.com/send?phone=254722918690" style="background-color: green; color: white;" type="button" 
+                  class="btn btn-outline-secondary d-block button">BOOK A TRIP</a>
                 </li>
+                </div>
+                
                
             
           </ul>
