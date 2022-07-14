@@ -59,7 +59,7 @@
         height: 40px;
       }
 
-      .nav-item button{
+      .nav-item .button{
         border-radius: 20px;
         margin-left: 300px;
       }
