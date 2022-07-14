@@ -126,21 +126,21 @@
           <img src="images/gall20.jpg" class="d-block w-100" alt="tours">
           <div class="carousel-caption d-none d-md-block">
             
-            <p>Some representative placeholder content for the first slide.</p>
+            <p>Experience your vacations in our best rides.</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="images/tour6.jpg" class="d-block w-100" alt="tours">
           <div class="carousel-caption d-none d-md-block">
             
-            <p>Some representative placeholder content for the second slide.</p>
+            <p>One of the best hotel serenity you will get to be in.</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="images/gall13.jpg" class="d-block w-100" alt="tours">
           <div class="carousel-caption d-none d-md-block">
             
-            <p>Some representative placeholder content for the third slide.</p>
+            <p>We have choosen the best amenities for your loved ones.</p>
           </div>
         </div>
       </div>
@@ -361,19 +361,19 @@
               <div class="carousel-item active">
                 <img src="images/tour4.jpg" class="d-block w-100" alt="tours">
                 <div class="carousel-caption d-none d-md-block">                
-                  <p style="font-size: 30px; padding-bottom: 200px;">Some representative placeholder content for the first slide.</p>
+                  <p style="font-size: 30px; padding-bottom: 200px;">Some of the best beach visinity.</p>
                 </div>
               </div>
               <div class="carousel-item">
                 <img src="images/pic2.webp" class="d-block w-100" alt="tours">
                 <div class="carousel-caption d-none d-md-block">                  
-                  <p >Some representative placeholder content for the second slide.</p>
+                  <p >Some of the best beach visinity.</p>
                 </div>
               </div>
               <div class="carousel-item">
                 <img src="images/pic2.webp" class="d-block w-100" alt="tours">
                 <div class="carousel-caption d-none d-md-block">                
-                  <p>Some representative placeholder content for the third slide.</p>
+                  <p>Some of the best beach visinity.</p>
                 </div>
               </div>
             </div>
@@ -460,7 +460,7 @@
                 <div class="wpb_wrapper">
                   <p style="color: black;"><img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Services</p>
                     <p style="color: black;"><img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Tourism</p>
-                    <p style="color: black;"><img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Tourism</p>
+                    <p style="color: black;"><img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Payment</p>
                     <p style="color: black;"><img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Tourism</p>
 
                   </div>
@@ -476,8 +476,8 @@
       <div class="wpb_wrapper">
         <p style="color: black;"><img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Booking</p>
   <p style="color: black;"><img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; RentalCar</p>
-  <p style="color: black;"><img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Booking</p>
-  <p style="color: black;"><img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Booking</p>
+  <p style="color: black;"><img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; EventHosts</p>
+  <p style="color: black;"><img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Marketing</p>
 
   
       </div>
@@ -490,13 +490,13 @@
     <div class="wpb_text_column wpb_content_element ">
       <div class="wpb_wrapper">
         <p style="color: black;">
-          <img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; London</p>
+          <img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Amboseli</p>
         <p style="color: black;">
-          <img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; California</p>
+          <img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Samburu</p>
           <p style="color: black;">
-            <img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; California</p>
+            <img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Diani</p>
             <p style="color: black;">
-              <img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; California</p>
+              <img class="" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/right-arrow.png" alt="" width="10">&nbsp; Ol Pejeta</p>
           </div>
     </div>
   <div style="background-color:none; height: 10px;" class="nicdark_section  "></div></div></div></div>
