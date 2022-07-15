@@ -374,7 +374,9 @@
     
     
 
-
+    <?php
+    include("shared/footer.php");
+   ?>
 
 
 
