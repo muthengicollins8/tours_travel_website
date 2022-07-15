@@ -1,9 +1,8 @@
-<nav class="navbar navbar-expand-lg" style="background-color: #f9f9f9;">
+<nav class="navbar navbar-expand-lg " style="background-color: white;">
       <div class="container-fluid">
-        <a class="navbar-brand" style="color:black;margin-left: 10px; padding-right: 0px;  "href="/index.php">
+        <a class="navbar-brand" style="color:black;margin-left: 10px; padding-right: 50px;  "href="/index.php">
         <img src="images/The logo.jpg" alt="tours" style="height:70px; width:90px;"/>
         </a>
-        <p style="width:10px;  font-size: 10px; font-family: Lucida Calligraphy; padding-top:20px;">Wild  Adventure Destinations</p>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>

@@ -3,7 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Wild Adventure Destinations</title>
+    <link rel="icon" type="image/x-icon" href="images/The logo.jpg">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.3/bootstrap-icons.svg" rel="stylesheet"/>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
@@ -68,7 +69,7 @@
         font-family: 'Times New Roman', Times, serif;
         font-size: 18px;
        padding-left: 150px;
-       font-weight: 500;
+       font-weight: 700;
       }
 
       .card-text{
@@ -115,44 +116,56 @@
     include("shared/navbar.php");
    ?>
 
-    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
-      <div class="carousel-indicators">
-        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-      </div>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="images/gall20.jpg" class="d-block w-100" alt="tours">
-          <div class="carousel-caption d-none d-md-block">
+
+<div id="carouselExampleInterval" class="carousel slide  carousel-fade" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="5000">
+      <img src="images/gall20.jpg" class="d-block w-100" alt="tours">
+      <div class="carousel-caption d-none d-md-block">
             
             <p>Experience your vacations in our best rides.</p>
           </div>
-        </div>
-        <div class="carousel-item">
-          <img src="images/tour6.jpg" class="d-block w-100" alt="tours">
-          <div class="carousel-caption d-none d-md-block">
+    </div>
+    <div class="carousel-item" data-bs-interval="5000">
+      <img src="images/tour6.jpg" class="d-block w-100" alt="tours">
+      <div class="carousel-caption d-none d-md-block">
             
             <p>One of the best hotel serenity you will get to be in.</p>
           </div>
-        </div>
-        <div class="carousel-item">
-          <img src="images/gall13.jpg" class="d-block w-100" alt="tours">
-          <div class="carousel-caption d-none d-md-block">
+    </div>
+    <div class="carousel-item">
+      <img src="images/gall13.jpg" class="d-block w-100" alt="tours">
+      <div class="carousel-caption d-none d-md-block">
             
             <p>We have choosen the best amenities for your loved ones.</p>
           </div>
-        </div>
-      </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
     </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
 
     <p class="h6 text-center pt-5 pb-2">Proposals</p>
     <p class="h2 text-center pb-5">OUR DESTINATIONS</p>
@@ -161,33 +174,49 @@
     <div class="container destinations">
       <div class="row">
         <div class="col-md-4">
-          <div class="card">
+          <div class="card position-relative">
             <img src="images/tour9.jpg"class="card-img-top" alt="tours">
+            <p class="card-text text-light position-absolute" style="font-weight:700; font-family: 'Times New Roman', Times, serif; font-size: 40px; padding-top: 200px; padding-left:10px;">Masai Mara</p>
+
           </div>
         </div>
         <div class="col-md-4">
-          <div class="card" >
+          <div class="card position-relative" >
             <img src="images/tour5.jpg" class="card-img-top" alt="tours">
+            <p class="card-text text-light position-absolute" style="font-family: Freestyle Script; font-size: 30px; padding-top: 160px; padding-left:20px;">Wildlife</p>
+            <p class="card-text text-light position-absolute" style="font-weight:700; font-family: 'Times New Roman', Times, serif; font-size: 40px; padding-top: 200px; padding-left:10px;">Tsavo</p>
+
           </div>
         </div>
         <div class="col-md-4">
-          <div class="card" >
+          <div class="card position-relative" >
             <img src="images/tour3.jpg" class="card-img-top" alt="tours">
+            <p class="card-text text-light position-absolute" style="font-family: Freestyle Script; font-size: 30px; padding-top: 160px; padding-left:20px;">Beach</p>
+            <p class="card-text text-light position-absolute" style="font-weight:700; font-family: 'Times New Roman', Times, serif; font-size: 40px; padding-top: 200px; padding-left:10px;">Mombasa</p>
+
           </div>
         </div>
         <div class="col-md-4">
-          <div class="card" >
+          <div class="card position-relative" >
             <img src="images/gall37.jpg" class="card-img-top" alt="tours">
+            <p class="card-text text-light position-absolute" style="font-weight:700; font-family: 'Times New Roman', Times, serif; font-size: 40px; padding-top: 200px; padding-left:10px;">Amboseli</p>
+
           </div>
         </div>
         <div class="col-md-4">
-          <div class="card" >
+          <div class="card position-relative" >
             <img src="images/tour2.jpg" class="card-img-top" alt="tours">
+            <p class="card-text text-light position-absolute" style="font-family: Freestyle Script; font-size: 30px; padding-top: 160px; padding-left:20px;">Beautiful scenaries</p>
+            <p class="card-text text-light position-absolute" style="font-weight:700; font-family: 'Times New Roman', Times, serif; font-size: 40px; padding-top: 200px; padding-left:10px;">Lamu Island</p>
+
           </div>
         </div>
         <div class="col-md-4">
-          <div class="card" >
+          <div class="card position-relative" >
             <img src="images/tour8.jpeg" class="card-img-top" alt="tours">
+            <p class="card-text text-light position-absolute" style="font-family: Freestyle Script; font-size: 30px; padding-top: 160px; padding-left:20px;">hiking</p>
+            <p class="card-text text-light position-absolute" style="font-weight:700; font-family: 'Times New Roman', Times, serif; font-size: 40px; padding-top: 200px; padding-left:10px;">Mt Kenya</p>
+
           </div>
         </div>
       </div>
@@ -208,7 +237,7 @@
               </svg>
             </div>
            <div class="card-body">            
-              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">We have the best staff members in the industries. They are able to offer quality services of your desire. Our staff are experienced in offering the best services
+              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">We have the best staff members in the industries. They are able to offer quality services of your desire. Our staff are experienced in offering the best services in the industry.
               </p>
             </div>
           </div>
@@ -236,7 +265,7 @@
               </svg>
             </div>
            <div class="card-body">            
-              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">Our services are pocket friendly. We offer different packages suitable to your budget. Get to choose the best packages for you and your loved ones.
+              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">Our services are pocket friendly. We offer different packages suitable to your budget. Get to choose the best packages for you and your loved ones. Quality is assured with us.
               </p>
             </div>
           </div>
@@ -250,7 +279,7 @@
               </svg>
             </div>
            <div class="card-body">            
-              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">Wild Adventure Destinations offers its services in a very timely manner. You get to experience no delays with our company. Timely and quality services is our priority. 
+              <p class="text-center" style="margin-top:px; color:black; font-size:13px;line-height:20px;">Wild Adventure Destinations offers its services in a very timely manner. You get to experience no delays with our company. Timely and quality services is our top priority. 
               </p>
             </div>
           </div>
@@ -304,7 +333,7 @@
             <div style="padding-left:0px;" class="text-center nd_options_section nd_options_box_sizing_border_box">
                 
                 <h3 class="nd_options_first_font  " style="margin:10px; color:; font-size:24px;line-height:24px;">Cruises</h3> 
-                <p class="nd_options_first_font 14 " style="margin-top:20px 0px; color:; font-size:14px;line-height:24px;">a vacation spent on a ship that sails the ocean, periodically stopping in ports for sightseeing and experience.</p> 
+                <p class="nd_options_first_font 14 " style="margin-top:20px 0px; color:; font-size:14px;line-height:24px;">A vacation spent on a ship that sails the ocean, periodically stopping in ports for sightseeing and experience.</p> 
                 <button type="button" class="btn btn-danger btn-sm rounded-pill">Details</button>
     
             </div>
@@ -321,7 +350,7 @@
             <div style="padding-left:0px;" class="text-center nd_options_section nd_options_box_sizing_border_box">
                 
                 <h3 class="nd_options_first_font  " style="margin:10px; color:; font-size:24px;line-height:24px;">Best Tours</h3> 
-                <p class="nd_options_first_font 14 " style="margin-top:20px 0px; color:; font-size:14px;line-height:24px;">a journey for business, pleasure, or education often involving a series of stops and ending at the starting point.</p> 
+                <p class="nd_options_first_font 14 " style="margin-top:20px 0px; color:; font-size:14px;line-height:24px;">A journey for business, pleasure, or education often involving a series of stops and ending at the starting point.</p> 
                 <button type="button" class="btn btn-success btn-sm rounded-pill" >Details</button>
     
             </div>
@@ -337,8 +366,8 @@
     <div style="margin-top:90px;" class="container next-destination-container" style="width: 100%;" >
       <div class="row">
         <div class="col-sm">
-          <h2 style="font-family: Lucida Calligraphy; padding-bottom: 20px;"><u>The best Beaches</u></h2>
-          <p style="text-align: left; height: 10px; font-family: 'Times New Roman', Times, serif;">It’s not often that you come across a sunrise-gold beach. That is our privilege as we gazed out at the slothful sea. Ebbing ever so gently, it looks at peace in its Neptune-blue gown. The beach is so soft, it feels like we were walking on a blanket of candy floss. The shimmering sand sweeps around in a scythe of beach, hemmes in by towering cliffs. Far out to sea, streams of pulsing light saturated the surface with a golden haze. It is confessional-quiet and this Babylon of beaches felt like paradise. The horizon seems to be stitched with a line of silver.</p>
+          <h2 style="font-family: Lucida Calligraphy; padding-bottom: 20px; padding-left:180px;"><u>The best Beaches</u></h2>
+          <p style="text-align: center; line-height: 50px; font-family: 'Times New Roman', Times, serif; font-size:20px;">It’s not often that you come across a sunrise-gold beach. That is our privilege as we gazed out at the slothful sea. Ebbing ever so gently, it looks at peace in its Neptune-blue gown. The beach is so soft, it feels like we were walking on a blanket of candy floss. The shimmering sand sweeps around in a scythe of beach, hemmes in by towering cliffs. Far out to sea, streams of pulsing light saturated the surface with a golden haze. It is confessional-quiet and this Babylon of beaches felt like paradise. The horizon seems to be stitched with a line of silver.</p>
           <div class="wpb_text_column wpb_content_element ">
             <div style="background-color:; height: 60px;" class="nicdark_section  "></div>
             <div class="wpb_wrapper">
