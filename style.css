@@ -1,0 +1,88 @@
+.navbar-brand img{
+  height: 70px;
+  width: 90px;
+}
+
+.nav-item .button{
+  border-radius: 20px;
+  margin-left: 300px;
+}
+
+.menu-items{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+ padding-left: 150px;
+ font-weight: 700;
+}
+.card-text{
+  font-size: 50px;
+  font-weight: 500;
+  color: black;
+  text-align: center;
+}
+.variety-container .col-sm{
+  margin-bottom: 10px;
+}
+.beaches{
+  font-size:20px;
+  line-height: 50px;
+}
+.beachimage{
+  height: 450px;
+}
+.footer-content{
+  margin-left: 120px;
+}
+.achievements{
+  text-align:center; 
+  padding-top:17px;
+}
+.card-img1{
+  height:480px;
+   margin-top:40px;
+   width: 90%;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .navbar-brand img{
+    height: 30px;
+    width: 50px;
+  }
+  
+  .nav-item .button{
+    margin-left: 0;
+  }
+  
+  .menu-items{
+   padding-left: 15px;
+  }
+  .holiday .card-text{
+    font-size: 30px !important;
+  }  
+  .beaches{
+    font-size:15px;
+    line-height: 30px;
+  }
+  
+  .beachimage{
+    height: 300px;
+  }
+  .footer-content{
+    margin-left: 0;
+  }
+  
+.achievements{
+  text-align:center; 
+  padding-top:24px;
+}
+
+.card-img1{
+  height:250px;
+   margin-top:40px;
+   width: 100%;
+}
+
+
+
+}
