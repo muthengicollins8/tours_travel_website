@@ -27,8 +27,8 @@
                  Pages
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="/Contacts.php">Contacts</a></li>
-                  <li><a class="dropdown-item" href="/AboutUs.php">About Us</a></li>
+                  <li><a class="dropdown-item" style="font-weight:700;" href="/Contacts.php">Contacts</a></li>
+                  <li><a class="dropdown-item" style="font-weight:700;" href="/AboutUs.php">About Us</a></li>
                 </ul>
               </li>        
     
