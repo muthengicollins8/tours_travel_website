@@ -43,8 +43,8 @@
    width: 90%;
 }
 
-.carousel-img{
-  height:800px !important;
+.carousel img{
+  height:88vh!important;
 }
 
 @media only screen and (max-width: 768px) {
@@ -91,6 +91,8 @@
   height:600px !important;
 }
 
-
+.carousel img{
+  height:40vh!important;
+}
 
 }

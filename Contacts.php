@@ -13,9 +13,7 @@
       .nav-link{
         color:black;
       }
-      .carousel img{
-        height:88vh !important;
-      }
+      
       .carousel-caption{
         font-size:50px !important;
       }

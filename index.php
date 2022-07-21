@@ -14,7 +14,7 @@
         color:black;
       }
 
-    
+      
      
       .carousel-caption{
         font-size:50px !important;
@@ -135,18 +135,6 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
-
-
-
-
-
-
-
-   
-
-
-
 
 
 
