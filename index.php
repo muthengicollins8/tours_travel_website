@@ -13,6 +13,8 @@
       .nav-link{
         color:black;
       }
+
+    
      
       .carousel-caption{
         font-size:50px !important;
@@ -102,22 +104,22 @@
 
 <div id="carouselExampleInterval" class="carousel slide  carousel-fade" data-bs-ride="carousel">
   <div class="carousel-inner">
-    <div class="carousel-item active" data-bs-interval="5000">
-      <img src="images/gall20.jpg" class="d-block carousel-images w-100" alt="tours">
+    <div class="carousel-item active carousel-img" data-bs-interval="5000">
+      <img src="images/gall20.jpg" class="d-block  w-100" alt="tours">
       <div class="carousel-caption d-none d-md-block">
             
             <p>Experience your vacations in our best rides.</p>
           </div>
     </div>
-    <div class="carousel-item" data-bs-interval="5000">
-      <img src="images/tour6.jpg" class="d-block carousel-images w-100" alt="tours">
+    <div class="carousel-item carousel-img" data-bs-interval="5000">
+      <img src="images/tour6.jpg" class="d-block w-100" alt="tours">
       <div class="carousel-caption d-none d-md-block">
             
             <p>One of the best hotel serenity you will get to be in.</p>
           </div>
     </div>
-    <div class="carousel-item">
-      <img src="images/gall13.jpg" class="d-block carousel-images w-100" alt="tours">
+    <div class="carousel-item carousel-img">
+      <img src="images/gall13.jpg" class="d-block  w-100" alt="tours">
       <div class="carousel-caption d-none d-md-block">
             
             <p>We have choosen the best amenities for your loved ones.</p>
