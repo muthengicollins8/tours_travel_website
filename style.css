@@ -43,6 +43,10 @@
    width: 90%;
 }
 
+.carousel img{
+  height:88vh !important;
+}
+
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .navbar-brand img{
@@ -81,6 +85,10 @@
   height:250px;
    margin-top:40px;
    width: 100%;
+}
+
+.carousel img{
+  height:60vh !important;
 }
 
 
