@@ -14,7 +14,7 @@
         color:black;
       }
 
-      
+       
      
       .carousel-caption{
         font-size:50px !important;
